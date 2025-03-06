@@ -44,9 +44,6 @@
 
 <hr/>
 
-<h2 align="center">🎯 Career Objective</h2>
-<p align="center">Aspiring software engineer seeking a challenging role to utilize expertise in C/C++, Python, JavaScript, IoT, and Web Development. Proven track record of leading successful projects, with strong skills in problem-solving, teamwork, and decision-making. Eager to contribute to an innovative organization by driving impactful solutions and continuous growth.</p>
-
 <br/>
 
 <div align="center">
