@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Deep Reinforcement**
+ 🔭 I’m currently working on **Data Analytics**
  
  🌱 I’m currently learning **Data Science**
 
