@@ -1,30 +1,19 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mrshivam77.mrshivam77" />
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello+👋;+I'm+Shivam+Dubey!;Data+Analyst+%7C+Python+Developer;Building+Data-Driven+Solutions+🚀" />
-</h1>
-
-<h3 align="center">Data Analyst | Python Developer | Data Analytics Enthusiast</h3>
-
 <p align="center">
-Data Analytics graduate passionate about building interactive dashboards, automating data pipelines, and applying Machine Learning to solve real-world problems.
+<img src="banner.png" width="100%">
 </p>
 
----
+<h1 align="center">Hi 👋, I'm Shivam Dubey</h1>
 
-## 👨‍💻 About Me
-
-- 🔭 Currently building **end-to-end Data Analytics projects**
-- 🌱 Learning **Machine Learning** and **Data Engineering**
-- 📊 Interested in **Data Analytics, Business Intelligence, AI, and Automation**
-- 💡 Passionate about solving real-world problems using **Python, SQL, Data Visualization, and Machine Learning**
-- 📫 Reach me at **mrshivamraj77@gmail.com**
-
----
-
-## 🌐 Connect With Me
+<h3 align="center">
+Computer Science Engineer | Data Analyst | Python Developer
+</h3>
 
 <p align="center">
+I enjoy building end-to-end data analytics solutions, interactive dashboards, and intelligent automation systems that solve real-world problems through data.
+</p>
+
+<p align="center">
+
 <a href="mailto:mrshivamraj77@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -40,83 +29,135 @@ Data Analytics graduate passionate about building interactive dashboards, automa
 <a href="https://leetcode.com/u/mrshivam77/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
 </p>
+
+---
+
+# 🚀 About Me
+
+🎓 Bachelor of Engineering (B.E.) in Computer Science & Engineering (2025)
+
+📊 Passionate about Data Analytics, Python Development, and Machine Learning
+
+💡 I enjoy transforming raw datasets into meaningful insights using Python, SQL, Streamlit, and interactive visualizations.
+
+🌱 Currently exploring Machine Learning, Data Engineering, and scalable data workflows.
+
+🎯 Looking for opportunities as a **Data Analyst**, **Python Developer**, or **Business Analyst**.
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+## 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript"/>
 </p>
 
-### Data Analytics
+---
+
+## 📊 Data Analytics
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
 </p>
 
-### Databases
+---
+
+## 🤖 Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
 </p>
 
-### Web Development
+---
+
+## 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,nodejs" />
+
+<img src="https://skillicons.dev/icons?i=react,html,css,nodejs"/>
+
 </p>
 
-### Tools
+---
+
+## 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrshivam77&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshivam77&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🎯 Current Focus
 
-<p align="center">
+✔ Data Analytics
 
-<img src="https://streak-stats.demolab.com?user=mrshivam77&theme=tokyonight&hide_border=true"/>
+✔ Python
 
-</p>
+✔ SQL
 
----
+✔ Interactive Dashboards
 
-# 📈 Contribution Graph
+✔ Machine Learning
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrshivam77&theme=tokyo-night"/>
-
-</p>
+✔ Data Engineering
 
 ---
 
+# 📌 What You'll Find Here
+
+- 📊 Interactive Data Analytics Dashboards
+
+- 🌍 Real-time Data Pipeline Projects
+
+- 🤖 Machine Learning Applications
+
+- 📈 Business Intelligence & Visualization Projects
+
+- 🐍 Python Automation Projects
+
+---
+
+# 💭 Philosophy
+
+> **"Data tells a story. My goal is to transform that story into actionable insights that create real-world impact."**
+
+---
+
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, feel free to connect with me on LinkedIn or explore my repositories.
 
 </p>
