@@ -1,15 +1,15 @@
-<p align="center">
-<img src="banner.png" width="100%">
-</p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mrshivam77.mrshivam77" />
 
-<h1 align="center">Hi 👋, I'm Shivam Dubey</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=34&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=750&height=70&lines=Hi+👋,+I'm+Shivam+Dubey;Computer+Science+Engineer;Data+Analyst+•+Python+Developer;Building+Interactive+Dashboards;Creating+End-to-End+Data+Projects;Always+Learning,+Always+Growing+🚀" />
+</h1>
 
 <h3 align="center">
-Computer Science Engineer | Data Analyst | Python Developer
+Computer Science Engineer • Data Analyst • Python Developer
 </h3>
 
 <p align="center">
-I enjoy building end-to-end data analytics solutions, interactive dashboards, and intelligent automation systems that solve real-world problems through data.
+Passionate about building data-driven applications, interactive dashboards, and intelligent automation solutions using Python, SQL, Streamlit, and Machine Learning.
 </p>
 
 <p align="center">
@@ -34,31 +34,29 @@ I enjoy building end-to-end data analytics solutions, interactive dashboards, an
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 Bachelor of Engineering (B.E.) in Computer Science & Engineering (2025)
+🎓 **Bachelor of Engineering (B.E.) in Computer Science & Engineering (2025)**
 
-📊 Passionate about Data Analytics, Python Development, and Machine Learning
+📊 Passionate about **Data Analytics**, **Python Development**, and **Machine Learning**
 
-💡 I enjoy transforming raw datasets into meaningful insights using Python, SQL, Streamlit, and interactive visualizations.
+💡 I enjoy transforming raw datasets into meaningful insights through interactive dashboards, automation, and data-driven solutions.
 
-🌱 Currently exploring Machine Learning, Data Engineering, and scalable data workflows.
+🌱 Currently learning **Machine Learning**, **Data Engineering**, and **Advanced SQL**
 
-🎯 Looking for opportunities as a **Data Analyst**, **Python Developer**, or **Business Analyst**.
+🚀 Open to opportunities as a **Data Analyst**, **Python Developer**, or **Business Analyst**
 
 ---
 
 # 💻 Tech Stack
 
-## 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,javascript"/>
 </p>
 
----
-
-## 📊 Data Analytics
+### 📊 Data Analytics
 
 <p>
 
@@ -72,9 +70,7 @@ I enjoy building end-to-end data analytics solutions, interactive dashboards, an
 
 </p>
 
----
-
-## 🤖 Machine Learning
+### 🤖 Machine Learning
 
 <p>
 
@@ -84,9 +80,7 @@ I enjoy building end-to-end data analytics solutions, interactive dashboards, an
 
 </p>
 
----
-
-## 🗄️ Databases
+### 🗄️ Databases
 
 <p>
 
@@ -96,9 +90,7 @@ I enjoy building end-to-end data analytics solutions, interactive dashboards, an
 
 </p>
 
----
-
-## 🌐 Web Development
+### 🌐 Web Development
 
 <p>
 
@@ -106,9 +98,7 @@ I enjoy building end-to-end data analytics solutions, interactive dashboards, an
 
 </p>
 
----
-
-## 🛠️ Tools
+### 🛠️ Tools
 
 <p>
 
@@ -120,44 +110,36 @@ I enjoy building end-to-end data analytics solutions, interactive dashboards, an
 
 # 🎯 Current Focus
 
-✔ Data Analytics
-
-✔ Python
-
-✔ SQL
-
-✔ Interactive Dashboards
-
-✔ Machine Learning
-
-✔ Data Engineering
+- 📊 Data Analytics
+- 🐍 Advanced Python
+- 🗄 SQL & Databases
+- 📈 Interactive Dashboards
+- 🤖 Machine Learning
+- ⚙️ Data Engineering
 
 ---
 
-# 📌 What You'll Find Here
+# 🌟 Core Strengths
 
-- 📊 Interactive Data Analytics Dashboards
-
-- 🌍 Real-time Data Pipeline Projects
-
+- 📊 Data Cleaning & Exploratory Data Analysis (EDA)
+- 📈 Interactive Dashboards with Streamlit & Plotly
+- 🌍 End-to-End Data Pipelines
+- 🐍 Python Automation & Scripting
 - 🤖 Machine Learning Applications
-
-- 📈 Business Intelligence & Visualization Projects
-
-- 🐍 Python Automation Projects
+- 📉 Business Insights & Data Visualization
 
 ---
 
-# 💭 Philosophy
+# 💭 My Philosophy
 
-> **"Data tells a story. My goal is to transform that story into actionable insights that create real-world impact."**
+> **"Great decisions are driven by data, and great data creates meaningful impact."**
 
 ---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
 
 <p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, feel free to connect with me on LinkedIn or explore my repositories.
-
+Feel free to explore my repositories and connect with me on LinkedIn.
 </p>
