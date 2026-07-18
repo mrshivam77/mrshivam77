@@ -129,7 +129,10 @@ Open to full-time roles anywhere in India — remote or on-site.
 
 <div align="center">
 
-> *"Great decisions are driven by data, and meaningful insights create real-world impact."*
+<h3>
+❝ Great decisions are driven by data,<br/>
+and meaningful insights create real-world impact. ❞
+</h3>
 
 </div>
 
