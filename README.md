@@ -1,50 +1,69 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F9BF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shivam+Dubey+%F0%9F%91%8B;Data+Analyst+%7C+Python+Developer;Turning+Raw+Data+Into+Real+Decisions" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F9BF7,100:6DD5FA&height=200&section=header&text=Shivam%20Dubey&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20Developer%20%7C%20BI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6DD5FA&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+decisions;Dashboards+%C2%B7+Automation+%C2%B7+Machine+Learning;Open+to+Data+Analyst+roles+across+India" alt="Typing SVG" />
 
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Data%20Analyst%20%7C%20BI%20%7C%20Python-2F9BF7?style=for-the-badge" />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=mrshivam77.mrshivam77&style=for-the-badge" />
+<br/><br/>
 
-<p align="center">
 <a href="mailto:mrshivamraj77@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/shivamdubey2677"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/mrshivam77"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://leetcode.com/u/mrshivam77/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-</p>
 
 </div>
 
----
+<br/>
 
-### 🧭 About Me
+## 🧭 About Me
 
-```text
-const shivam = {
-  role: "Data Analyst | Python Developer",
-  education: "B.E. Computer Science & Engineering, Chandigarh University (2025)",
-  location: "Uttar Pradesh, India — open to relocation across India",
-  focus: ["Data Analytics", "Business Intelligence", "Python Automation", "Machine Learning"],
-  credentials: ["Google Data Analytics Certificate", "NPTEL Gold Medal", "Published Researcher — ICCMST 2024"],
-  currentlyLearning: "Advanced ML, Data Engineering, Cloud-based Analytics",
-  philosophy: "Great decisions are driven by data, and meaningful insights create real-world impact."
-};
-```
+I'm a **Computer Science graduate turned data analyst**, focused on turning messy, real-world datasets into dashboards and insights people can actually act on. I gravitate toward **Indian, real-world data** — startup funding, air quality, hospitality — over generic tutorial datasets, because that's closer to what the job actually looks like.
 
-I build end-to-end data projects — from raw, messy datasets to interactive dashboards that people can actually act on. I like working with **real-world Indian datasets** (startup funding, air quality, hospitality) rather than generic tutorial data, because that's closer to what the job actually looks like.
+- 🎓 B.E. in Computer Science & Engineering — Chandigarh University, 2025
+- 📊 Focused on Data Analytics, Business Intelligence & Python Development
+- 🌱 Currently deepening my skills in Machine Learning, Data Engineering & Cloud Analytics
+- 📍 Based in Uttar Pradesh, India — open to relocating anywhere in India
+- 💼 Looking for **Data Analyst / Business Analyst / Python Developer** roles
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## 🏆 Achievements
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,mysql,postgres,mongodb,react,html,css,nodejs,git,github,linux,vscode" />
+<img src="https://img.shields.io/badge/🥇_NPTEL-Gold_Medal-2F9BF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📜_Google-Data_Analytics_Certificate-2F9BF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📄_Published_Paper-ICCMST_2024-2F9BF7?style=for-the-badge"/>
 </p>
 
-<table>
+<br/>
+
+## 🛠️ Tech Stack
+
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
+
+**Languages**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js" />
+
+</td>
+<td valign="top" width="33%">
+
+**Databases**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+
+</td>
+<td valign="top" width="33%">
+
+**Tools**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+
+</td>
+</tr>
+</table>
 
 **Data Analytics & BI**
 
@@ -56,95 +75,36 @@ I build end-to-end data projects — from raw, messy datasets to interactive das
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-</td>
-<td valign="top" width="50%">
-
-**Machine Learning & Databases**
+**Machine Learning**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-</td>
-</tr>
-</table>
+<br/>
 
----
+## 💭 Philosophy
 
-### 🚀 Featured Projects
+> *"Great decisions are driven by data, and meaningful insights create real-world impact."*
 
-<table>
-<tr>
-<td width="50%">
+<br/>
 
-**[📊 Indian Startup Funding Analysis](https://github.com/mrshivam77/indian-startup-funding-analysis)**
-Interactive dashboard exploring Indian startup funding trends (2015–2020) — Python, Pandas, Plotly, Streamlit.
+## 📌 Pinned Projects
 
-</td>
-<td width="50%">
+My featured work is pinned below — dashboards, ML applications, and end-to-end data pipelines built around real datasets.
 
-**[🌍 India AQI & Weather Tracker](https://github.com/mrshivam77/india-aqi-weather-tracker)**
-Live ETL pipeline monitoring air quality & weather across Indian cities — APIs, SQLite, GitHub Actions, Streamlit.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[🚦 Adaptive Traffic Signal Control](https://github.com/mrshivam77/Adaptive-Traffic-Signal-Control-Using-Deep-Reinforcement-Learning)**
-Adaptive signal control using Deep Reinforcement Learning (DQN) with the SUMO traffic simulator.
-
-</td>
-<td width="50%">
-
-**[🏨 Hotel Booking Cancellation Analysis](https://github.com/mrshivam77/Hotel-Booking-Cancellation-Analysis)**
-Data analysis identifying key drivers behind hotel booking cancellations.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<i>📌 More on my <a href="https://github.com/mrshivam77?tab=repositories">pinned repositories →</a></i>
-</div>
-
----
-
-### 🏆 Achievements
-
-- 🥇 **NPTEL Gold Medal**
-- 📜 **Google Data Analytics Certificate**
-- 📄 **Published Research Paper — ICCMST 2024**
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mrshivam77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshivam77&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrshivam77&theme=tokyonight&hide_border=true" />
-</p>
-
----
+<br/>
 
 <div align="center">
 
-### 💬 Let's Connect
+## 💬 Let's Connect
 
-I'm actively looking for **Data Analyst / Business Analyst / Python Developer** roles — always happy to talk data, dashboards, or opportunities.
+I'm actively looking for opportunities — always happy to talk data, dashboards, or roles.
 
 <a href="mailto:mrshivamraj77@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/shivamdubey2677"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/><br/>
 
-<i>"Great decisions are driven by data, and meaningful insights create real-world impact."</i>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2F9BF7&height=100&section=footer" width="100%"/>
 
 </div>
