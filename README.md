@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F9BF7,100:6DD5FA&height=200&section=header&text=Shivam%20Dubey&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20Developer%20%7C%20BI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,50:2F9BF7,100:6DD5FA&height=220&section=header&text=Shivam%20Dubey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%C2%B7%20Python%20Developer%20%C2%B7%20BI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6DD5FA&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+decisions;Dashboards+%C2%B7+Automation+%C2%B7+Machine+Learning;Open+to+Data+Analyst+roles+across+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2F9BF7&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+decisions+that+matter;Dashboards+%C2%B7+Automation+%C2%B7+Machine+Learning;Actively+seeking+Data+Analyst+roles+across+India" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 <a href="mailto:mrshivamraj77@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/shivamdubey2677"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -17,22 +17,50 @@
 
 ## 🧭 About Me
 
-I'm a **Computer Science graduate turned data analyst**, focused on turning messy, real-world datasets into dashboards and insights people can actually act on. I gravitate toward **Indian, real-world data** — startup funding, air quality, hospitality — over generic tutorial datasets, because that's closer to what the job actually looks like.
+I turn messy, real-world data into dashboards and insights people can actually act on. Rather than practicing on generic tutorial datasets, I build projects around **real Indian data** — startup funding, air quality, hospitality trends — because that's what the job actually looks like on day one.
 
-- 🎓 B.E. in Computer Science & Engineering — Chandigarh University, 2025
-- 📊 Focused on Data Analytics, Business Intelligence & Python Development
-- 🌱 Currently deepening my skills in Machine Learning, Data Engineering & Cloud Analytics
-- 📍 Based in Uttar Pradesh, India — open to relocating anywhere in India
-- 💼 Looking for **Data Analyst / Business Analyst / Python Developer** roles
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+🎓 **B.E. in Computer Science & Engineering**
+Chandigarh University, 2025
+
+📊 **Focus areas**
+Data Analytics · Business Intelligence · Python Development
+
+</td>
+<td width="50%" valign="top">
+
+🌱 **Currently deepening**
+Machine Learning · Data Engineering · Cloud Analytics
+
+📍 **Location**
+Uttar Pradesh, India — open to relocating anywhere in India
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🎯 What I'm Looking For
+
+<div align="center">
+
+**Data Analyst · Business Analyst · Python Developer**
+Open to full-time roles anywhere in India — remote or on-site.
+
+</div>
 
 <br/>
 
 ## 🏆 Achievements
 
-<p align="left">
-<img src="https://img.shields.io/badge/🥇_NPTEL-Gold_Medal-2F9BF7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📜_Google-Data_Analytics_Certificate-2F9BF7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📄_Published_Paper-ICCMST_2024-2F9BF7?style=for-the-badge"/>
+<p align="center">
+<img src="https://img.shields.io/badge/🥇_NPTEL-Gold_Medal-1E3C72?style=for-the-badge&labelColor=2F9BF7"/>
+<img src="https://img.shields.io/badge/📜_Google-Data_Analytics_Certificate-1E3C72?style=for-the-badge&labelColor=2F9BF7"/>
+<img src="https://img.shields.io/badge/📄_Published_Research-ICCMST_2024-1E3C72?style=for-the-badge&labelColor=2F9BF7"/>
 </p>
 
 <br/>
@@ -41,29 +69,31 @@ I'm a **Computer Science graduate turned data analyst**, focused on turning mess
 
 <table width="100%">
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="33%" align="center">
 
 **Languages**
-<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=python,cpp,js" />
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="33%" align="center">
 
 **Databases**
-<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="33%" align="center">
 
 **Tools**
-<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 
 </td>
 </tr>
 </table>
+
+<div align="center">
 
 **Data Analytics & BI**
 
@@ -80,17 +110,17 @@ I'm a **Computer Science graduate turned data analyst**, focused on turning mess
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
+</div>
+
 <br/>
 
 ## 💭 Philosophy
 
+<div align="center">
+
 > *"Great decisions are driven by data, and meaningful insights create real-world impact."*
 
-<br/>
-
-## 📌 Pinned Projects
-
-My featured work is pinned below — dashboards, ML applications, and end-to-end data pipelines built around real datasets.
+</div>
 
 <br/>
 
@@ -105,6 +135,6 @@ I'm actively looking for opportunities — always happy to talk data, dashboards
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2F9BF7&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,50:2F9BF7,100:1E3C72&height=120&section=footer" width="100%"/>
 
 </div>
